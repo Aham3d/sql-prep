@@ -10,7 +10,7 @@
 	address LIKE '%avenue%';
     
 -- 2. phone numbers end with 9
- SELECT * 
- FROM customers
- WHERE 
-	phone LIKE '%9' 
+--  SELECT * 
+--  FROM customers
+--  WHERE 
+-- 	phone LIKE '%9' 
