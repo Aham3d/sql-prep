@@ -8,7 +8,7 @@ WHERE points < 2000
 UNION
 SELECT 
 	customer_id, 
-    first_name, 
+    first_name,  
     points, 
     'silver'
 FROM customers
