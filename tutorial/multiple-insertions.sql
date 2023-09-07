@@ -7,7 +7,7 @@ INSERT INTO orders (
 
 VALUES 
 (
-	1, 
+	1,  
     '2019-01-01', 
     1
 ); 
